@@ -1,0 +1,1 @@
+My custom tooling for Daz > Blender+Diffeomorphic > UE pipeline. Not intended for general use as it contains hard-coded and platform-specific values. Mainly used as a reference for others to develop their own tooling
